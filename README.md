@@ -1,0 +1,2 @@
+# Walmart_predict_the_sales_for_the_products_for_28-days
+We here have a hierarchical data for products for Walmart store for different categories from three states namely, California, Winscoin and Texas. Looking at this data we need to predict the sales for the products for 28 days. The training data that we have consist of individual sales for each product for 1914 days. Using this train data we need to make prediction on the next days.
