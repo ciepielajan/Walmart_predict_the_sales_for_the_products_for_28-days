@@ -17,3 +17,7 @@ We have the following files provided from as the part of the competition:
 5. sales_train_evaluation.csv - Includes sales [d_1 - d_1941] (labels used for the Public leaderboard)
 
 Using this dataset we need to make the sales prediction for the next 28 days.
+
+
+### Inspiration
+https://medium.com/analytics-vidhya/how-to-guide-on-exploratory-data-analysis-for-time-series-data-34250ff1d04f
